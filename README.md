@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projeto: Agente de Geração e Envio de Vídeos Inteligentes
 
 Este projeto utiliza **Google Cloud Agent Development Kit (ADK)** e
@@ -106,7 +105,4 @@ python main.py
 5.  Vídeo é armazenado no **Cloud Storage**.\
 6.  Link assinado é gerado e enviado para o usuário no **Telegram**.
 
-=======
-# HACKDAY-globo25
->>>>>>> 0fddfebccceb915803e920032fe11ca5caddbce9
 
